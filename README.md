@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aashishwastaken
+- 👋 Hi, I’m Aashish Prasad
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning Blockchain and Devops
 - 💞️ I’m looking to collaborate on Full Stack Web Development
